@@ -1,3 +1,32 @@
 h1 {
-  text-align: center
+text-align: center;
+margin-top: 15%;
+font-size: 70px;
+}
+
+.topnav{
+  overflow: hidden;
+}
+
+.topnav a{
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+}
+
+.topnavright {
+  background-color: white;
+  overflow: hidden;
+}
+
+.topnavright a{
+  float: right;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+}
+
+.search {
+  border:
 }
