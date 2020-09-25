@@ -3,11 +3,10 @@ body {
   padding: 0%;
 }
 
-
-h1 {
-text-align: center;
-margin-top: 15%;
-font-size: 70px;
+.title {
+  text-align: center;
+  margin-top: 20%;
+  font-size: 70px;
 }
 
 .topnav{
@@ -41,7 +40,7 @@ font-size: 70px;
 
 .searchTerm {
   width: 110%;
-  border: 3px solid black;
+  border: 1px solid black;
   border-right: none;
   padding: 5px;
   height: 20px;
@@ -56,14 +55,15 @@ font-size: 70px;
 
 .searchButton {
   width: 40px;
-  height: 36px;
-  border: 3px solid black;
+  height: 33px;
+  border: 1px solid black;
   background: white;
   text-align: center;
   color: black;
   border-radius: 5px 0 0 5px;
   cursor: pointer;
   font-size: 20px;
+
 }
 
 .wrap {
